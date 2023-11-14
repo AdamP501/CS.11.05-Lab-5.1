@@ -142,7 +142,7 @@ class ArrayUtilityTest {
         assertEquals(5, reversedOne[5]);
         assertEquals(4, reversedOne[6]);
         assertEquals(3, reversedOne[7]);
-        assertEquals(2, reversedOne[8]);
+         assertEquals(2, reversedOne[8]);
         assertEquals(1, reversedOne[9]);
 
         assertEquals(16, reversedTwo[0]);
